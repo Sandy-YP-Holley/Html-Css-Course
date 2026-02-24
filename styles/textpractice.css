@@ -1,0 +1,66 @@
+.rounded-search{
+  width: 150px;
+  border-radius: 7px;
+  border: solid;
+  border-color: rgb(200, 200, 200);
+  font-size: 17px;
+  padding: 5px 10px 5px 10px;
+}
+
+.google-search{
+  width: 325px;
+  border-radius: 20px;
+  font-size: 15px;
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.15);
+  border: none;
+  padding: 5px 10px 5px 10px;
+}
+
+.linkedin{
+  color: rgb(96, 96, 96);
+  text-align: center;
+}
+
+.linkedin-text{
+  margin-bottom: 0px;
+  font-size: 12px;
+  text-align: left;
+  margin-left: 25px;
+}
+
+.linkedin-email{
+  margin-top: 2px;
+  margin-bottom: 5px;
+  width: 288px;
+}
+
+.linkedin-description{
+  font-size: 12px;
+  margin-top: 0px;
+}
+
+.linkedin-button{
+  color: white;
+  background-color: rgb(40, 120, 210);
+  border: none;
+  border-radius: 15px;
+  padding: 10px 110px 10px 110px;
+}
+
+.twitter-pfp{
+  width: 30px;
+  border-radius: 30px;
+  vertical-align: bottom;
+}
+
+.twitter-text{
+  border: none;
+}
+
+.twitter-button{
+  color: white;
+  background-color: rgb(40, 120, 210);
+  border: none;
+  padding: 7px 15px 7px 15px;
+  border-radius: 20px;
+}
