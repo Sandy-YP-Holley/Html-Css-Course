@@ -1,0 +1,90 @@
+.red-square{
+    width: 50px;
+    background-color: red;
+    height: 50px;
+    margin-bottom: 5px;
+}
+
+.green-circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 80px;
+    background-color: rgb(50, 200, 80);
+    margin-bottom: 5px;
+}
+
+.survey{
+    border-width: 1px;
+    border-color: gray;
+    width: 200px;
+    height: 90px;
+    border-style: solid;
+}
+
+.survey-question, .survey-answer{
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.youtube-music {
+    width: 250px;
+    height: 90px;
+    background-color: black;
+}
+
+.title, .description{
+    margin: 5px 5px 5px 5px;
+}
+
+.title{
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+}
+
+.description{
+    color: rgb(187, 187, 187);
+    font-size: 15px;
+}
+
+.facebook{
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.50);
+    margin-top: 20px;
+}
+
+.pfp{
+    width: 200px;
+    height: 213px;
+    object-fit: cover;
+    display: block;
+}
+
+.name, .mutuals, .add-friend{
+     margin-left: 5px;
+}
+
+.name{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.mutuals{
+    margin-top: 0px;
+    color: gray;
+    margin-bottom: 5px;
+}
+
+.add-friend{
+    margin-bottom: 5px;
+    color: White;
+    background-color: rgb(85, 121, 231);
+    border: none;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
